@@ -25,3 +25,4 @@ I am seeking an **entry-level cybersecurity** or **data analyst** position (remo
 - Apply my skills to solve real-world security problems  
 - Help organizations safeguard their data and systems  
 - Continue growing in a mission-driven tech environment
+- Apply for Cybersecurity Analyst intern
