@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
 ## 👋 About Me
 
-My name is **Thi Nguyen Hoang**. I am passionate about **cybersecurity** and **data analytics**, and I am committed to protecting people’s digital safety and privacy.
+My name is **Thi Nguyen**. I am passionate about **cybersecurity** and **data analytics**, and I am committed to protecting people’s digital safety and privacy.
 
 I recently completed both the **Google Cybersecurity Certificate** and the **Google Data Analytics Certificate**, where I gained hands-on experience with:
 
@@ -26,3 +26,17 @@ I am seeking an **entry-level cybersecurity** or **data analyst** position (remo
 - Help organizations safeguard their data and systems  
 - Continue growing in a mission-driven tech environment
 - Apply for Cybersecurity Analyst intern
+
+## 🛠️ Projects
+
+### 🔐 Linux Permissions Audit
+- Used: chmod, chown, ls -l
+- Outcome: Demonstrated file access misconfigurations and recommended secure settings
+
+### 🧠 SQL Injection Prevention Demo
+- Used: SQLite, parameterized queries
+- Outcome: Built a secure login form to prevent injection attacks
+
+### 📊 Risk Assessment Report
+- Tools: NIST Framework, Google Sheets
+- Outcome: Assessed a mock organization’s security risks and presented mitigation strategies
